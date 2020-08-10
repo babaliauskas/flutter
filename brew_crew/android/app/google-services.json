@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401411730855",
+    "firebase_url": "https://lukas-brew-crew.firebaseio.com",
+    "project_id": "lukas-brew-crew",
+    "storage_bucket": "lukas-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401411730855:android:199c2e176cf16b74c85a82",
+        "android_client_info": {
+          "package_name": "com.babaliauskas.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401411730855-5v3o2tgvquhr0grgtr8d5s9bn3abpp9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KiWlyxODoXdrLsK-hlV2JPQnT933E3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401411730855-5v3o2tgvquhr0grgtr8d5s9bn3abpp9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
