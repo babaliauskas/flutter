@@ -1,0 +1,32 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifypractice-staging-152333-authRole",
+      "UnauthRoleArn": "arn:aws:iam::612959001803:role/amplify-amplifypractice-staging-152333-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::612959001803:role/amplify-amplifypractice-staging-152333-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifypractice-staging-152333-deployment",
+      "UnauthRoleName": "amplify-amplifypractice-staging-152333-unauthRole",
+      "StackName": "amplify-amplifypractice-staging-152333",
+      "StackId": "arn:aws:cloudformation:us-east-1:612959001803:stack/amplify-amplifypractice-staging-152333/da93bee0-3c1c-11ed-90d7-0edd7fddb855",
+      "AmplifyAppId": "d1ywq8u7iho3zd",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-amplifypractice-staging-152333-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "amplifyPractice": {}
+      },
+      "function": {
+        "amplifyPracticePostConfirmation": {
+          "GROUP": "usersNew",
+          "deploymentBucketName": "amplify-amplifypractice-staging-152333-deployment",
+          "s3Key": "amplify-builds/amplifyPracticePostConfirmation-496b4141785869544444-build.zip"
+        },
+        "AdminQueries38ef6f33": {
+          "deploymentBucketName": "amplify-amplifypractice-staging-152333-deployment",
+          "s3Key": "amplify-builds/AdminQueries38ef6f33-5344757378353247384c-build.zip"
+        }
+      }
+    }
+  }
+}
